@@ -1,0 +1,13 @@
+{
+    "control_host": "127.0.0.1",
+    "control_port": 9051,
+    "control_password": "",
+    "socks_host": "127.0.0.1",
+    "socks_port": 9050,
+    "tor_exe_path": "",
+    "interval_seconds": 60,
+    "killswitch_enabled": false,
+    "max_retry_duplicate": 8,
+    "show_country_lookup": true,
+    "notify_on_recovery": true
+}
